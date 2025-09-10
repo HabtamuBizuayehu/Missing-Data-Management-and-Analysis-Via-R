@@ -1,8 +1,6 @@
----
-title: "📑 Missing Data Management and Analysis via R"
-author: "Habtamu Bizuayehu"
-output: github_document
----
+"📑 Missing Data Management and Analysis via R"
+By:"Habtamu Bizuayehu"
+
 
 **Live Website:** [http://habtamubizuayehu.com/Missing-Data-Management-and-Analysis-Via-R/](http://habtamubizuayehu.com/Missing-Data-Management-and-Analysis-Via-R/)  
 
@@ -13,10 +11,10 @@ output: github_document
 > Author: [Habtamu Bizuayehu](https://habtamubizuayehu.com/) · [ORCID](https://orcid.org/0000-0002-1360-4909)  
 
 ---
-You can read the full presentation here:  
+You can read a full Power Point presentation here:  
 [📖 View Presentation PDF](docs/Presentation_of_missing_data.pdf)
 
-- 🔗 **Open the PDF on GitHub (built-in viewer):**  
+- 🔗 **Open the PDF viewer:**  
   <https://github.com/HabtamuBizuayehu/Missing-Data-Management-and-Analysis-Via-R/blob/main/docs/Presentation_of_missing_data.pdf>
 
 ## 📌 Project Overview  
@@ -35,23 +33,8 @@ It covers:
 
 ---
 
-## 📑 Presentation (Inline PDF Viewer)  
 
-<iframe src="Presentation%20of%20missing%20data.pdf" width="100%" height="600px"></iframe>  
-
----
-
-## 📂 Repository Structure  
-
-- `docs/` → Rendered site files for GitHub Pages  
-- `index_general.qmd` → Quarto/R Markdown source file  
-- `Presentation of missing data.pdf` → Full presentation slides  
-- `.gitignore` → Ignored files list  
-- `README` → Project overview  
-
----
-
-## 🏷 Tags / Keywords  
+## Keywords  
 
 #R #MissingData #DataWrangling #Tidyverse #DataScience #Imputation #RStats  
 #PublicHealthData #DataAnalytics #Quarto #ReproducibleResearch #OpenScience
