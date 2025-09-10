@@ -30,13 +30,9 @@ It covers:
 
 ---
 
-## 📑 Presentation  
+## 📑 Presentation (Inline PDF Viewer)  
 
-The full presentation slides are included in this repository:  
-
-<embed src="Presentation%20of%20missing%20data.pdf" type="application/pdf" width="100%" height="600px" />  
-
-[📥 Download PDF](Presentation%20of%20missing%20data.pdf)  
+<iframe src="Presentation%20of%20missing%20data.pdf" width="100%" height="600px"></iframe>  
 
 ---
 
