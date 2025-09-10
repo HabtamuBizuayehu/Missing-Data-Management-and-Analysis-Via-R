@@ -14,7 +14,7 @@ output: github_document
 
 ---
 You can read the full presentation here:  
-[📖 View Presentation PDF](Presentation%20of%20missing%20data.pdf)
+[📖 View Presentation PDF](docs/Presentation_of_missing_data.pdf)
 
 
 ## 📌 Project Overview  
