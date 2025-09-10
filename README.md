@@ -17,7 +17,7 @@ You can read the full presentation here:
 [📖 View Presentation PDF](docs/Presentation_of_missing_data.pdf)
 
 - 🔗 **Open the PDF on GitHub (built-in viewer):**  
-  <https://github.com/HabtamuBizuayehu/Missing-Data-Management-and-Analysis-Via-R/blob/main/docs/presentation-missing-data.pdf>
+  <https://github.com/HabtamuBizuayehu/Missing-Data-Management-and-Analysis-Via-R/blob/main/docs/Presentation_of_missing_data.pdf>
 
 ## 📌 Project Overview  
 
