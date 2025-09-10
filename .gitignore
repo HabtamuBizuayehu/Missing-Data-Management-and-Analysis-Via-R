@@ -1,0 +1,25 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rprofile
+
+# Quarto / site output
+_quarto/
+.quarto/
+_site/
+docs/
+
+# Python / misc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Optional: large/raw data
+data/raw/
+*.rds
+*.RData
+*.rda
