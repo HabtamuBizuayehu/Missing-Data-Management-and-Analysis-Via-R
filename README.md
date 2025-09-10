@@ -1,5 +1,4 @@
-"📑 Missing Data Management and Analysis via R"
-By:"Habtamu Bizuayehu"
+📑 **Missing Data Management and Analysis via R**
 
 
 **Live Website:** [http://habtamubizuayehu.com/Missing-Data-Management-and-Analysis-Via-R/](http://habtamubizuayehu.com/Missing-Data-Management-and-Analysis-Via-R/)  
