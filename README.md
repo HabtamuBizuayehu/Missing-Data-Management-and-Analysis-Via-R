@@ -13,6 +13,9 @@ output: github_document
 > Author: [Habtamu Bizuayehu](https://habtamubizuayehu.com/) · [ORCID](https://orcid.org/0000-0002-1360-4909)  
 
 ---
+You can read the full presentation here:  
+[📖 View Presentation PDF](Presentation%20of%20missing%20data.pdf)
+
 
 ## 📌 Project Overview  
 
