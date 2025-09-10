@@ -13,7 +13,7 @@
 You can read a full Power Point presentation here:  
 [📖 View Presentation PDF](docs/Presentation_of_missing_data.pdf)
 
-- 🔗 **Open the PDF viewer:**  
+🔗 **Open the PDF viewer:**  
   <https://github.com/HabtamuBizuayehu/Missing-Data-Management-and-Analysis-Via-R/blob/main/docs/Presentation_of_missing_data.pdf>
 
 ## 📌 Project Overview  
